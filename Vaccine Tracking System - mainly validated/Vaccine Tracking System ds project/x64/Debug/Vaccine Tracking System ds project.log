@@ -1,0 +1,4 @@
+﻿  VaccineSystem.cpp
+C:\Users\malak eldars\Desktop\Vaccine Tracking System - mainly validated (3)\Vaccine Tracking System - mainly validated\Vaccine Tracking System ds project\Validation.h(18,2): warning C4091: 'static ': ignored on left of 'Validation' when no variable is declared
+C:\Users\malak eldars\Desktop\Vaccine Tracking System - mainly validated (3)\Vaccine Tracking System - mainly validated\Vaccine Tracking System ds project\VaccineSystem.cpp(213,4): warning C4551: function call missing argument list
+  Vaccine Tracking System ds project.vcxproj -> C:\Users\malak eldars\Desktop\Vaccine Tracking System - mainly validated (3)\Vaccine Tracking System - mainly validated\x64\Debug\Vaccine Tracking System ds project.exe
